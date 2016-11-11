@@ -11,4 +11,5 @@ EECS 268 - Programming II
 EECS 368 - Programming Language Paradigms  
 EECS 560 - Data Structures  
 EECS 565 - Introduction to Information and Computer Security  
+EECS 645 - Computer Architecture  
 EECS 662 - Programming Languages
